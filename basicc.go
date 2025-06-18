@@ -31,4 +31,6 @@ func main() {
 	m := map[string]int{"avinash": 34}
 	f.Println(m["avinash"])
 
+	
+
 }
